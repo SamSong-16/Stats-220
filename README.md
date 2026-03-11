@@ -35,3 +35,7 @@ How do I feel when I try to figure out whats happening in my lecture
 Me when I thinking too much
 
 ![](https://media1.tenor.com/m/wPsCtaXlhWAAAAAC/stillesque.gif)
+
+Also me, when any good happens
+
+![](https://media.tenor.com/ryJfTQaxlU4AAAAM/splobbert-brap-spongebob.gif)
