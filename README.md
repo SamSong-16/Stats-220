@@ -1,7 +1,9 @@
 # stats220
-<h1>
-This is my repo for STATS 220. 
-<h1>
+<html>
+  <body>
+
+<h1>This is my repo for STATS 220. <h1>
+
 A little about me:
 
 - I am undertaking a degree in Statistic and Psychology.
@@ -15,3 +17,5 @@ A little about me:
 - I really hope I can graduate without failing any course.
 
 A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
+</body>
+</html>
