@@ -14,6 +14,7 @@
 - What I do in my free time
   * **Gym**
   * Review the lecture
+  * **Music**
   * Preview my course
   * **Gaming**
 
