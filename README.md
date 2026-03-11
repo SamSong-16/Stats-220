@@ -17,7 +17,7 @@
   * Preview my course
   * **Gaming**
 
-- [My buddy here]    
+- [My buddy here](https://media.tenor.com/lXYGhZSxvvQAAAAi/spongebob-blue-shorts.gif)    
 - [My little buddy here](https://pokemondb.net/pokedex/mudkip)
 
 A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
