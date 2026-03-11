@@ -18,7 +18,7 @@
   * Preview my course
   * **Gaming**
 
-- [My buddy here](https://media.tenor.com/lXYGhZSxvvQAAAAi/spongebob-blue-shorts.gif)    
+- [My buddy here](https://media.tenor.com/ffVrecIa2agAAAAM/spongebob-sponge-bob.gif) 
 - [My little buddy here](https://pokemondb.net/pokedex/mudkip)
 
   
@@ -38,4 +38,4 @@ Me when I thinking too much
 
 Also me, when any good happens
 
-![](https://media.tenor.com/ryJfTQaxlU4AAAAM/splobbert-brap-spongebob.gif)
+![](https://media.tenor.com/lXYGhZSxvvQAAAAi/spongebob-blue-shorts.gif) 
