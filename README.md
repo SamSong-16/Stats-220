@@ -3,7 +3,7 @@
   <body>
 
 <h1>This is my repo for STATS 220. <h1>
-
+<p>
 A little about me:
 
 - I am undertaking a degree in Statistic and Psychology.
@@ -15,7 +15,7 @@ A little about me:
 - I love animals
 - I always think too much
 - I really hope I can graduate without failing any course.
-
+</p>
 A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
 </body>
 </html>
