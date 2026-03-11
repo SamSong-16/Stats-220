@@ -1,7 +1,7 @@
 # stats220
-
+<h1>
 This is my repo for STATS 220. 
-
+<h1>
 A little about me:
 
 - I am undertaking a degree in Statistic and Psychology.
