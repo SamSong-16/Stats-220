@@ -17,4 +17,5 @@
   * Gaming
 - I always think too much
 - I really hope I can graduate without failing any course
--A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
+  
+A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
