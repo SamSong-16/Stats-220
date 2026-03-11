@@ -22,6 +22,6 @@
 
 A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
 
-How do I feel when I try to understand but I can't 
-![]([(<img width="498" height="371" alt="image" src="https://github.com/user-attachments/assets/22918890-7aea-4bc1-afca-2c52e8548a88" />)](https://media1.tenor.com/m/DYGBJfNboWkAAAAC/spongebob-wth.gif))
+How do I feel when I try to figure out whats happening in my lecture
+![][([(<img width="498" height="371" alt="image" src="https://github.com/user-attachments/assets/22918890-7aea-4bc1-afca-2c52e8548a88" />)](https://media1.tenor.com/m/DYGBJfNboWkAAAAC/spongebob-wth.gif))](https://media.tenor.com/hXika4IpDA8AAAAM/spongebob-confused.gif)
 
