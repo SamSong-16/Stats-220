@@ -6,7 +6,7 @@
 - I am interested in learning about how to use Markdown and all the languages will be use in this course.
 - I eat a lot.
 - I have a cat named *KaKa*.
-.
+
 - My all time favourite food rank：
   1. Anything with matcha
   2. Other
@@ -15,6 +15,6 @@
   * Review the lecture
   * Preview my course
   * Gaming
-  I always think too much
-  I really hope I can graduate without failing any course
+- I always think too much
+- I really hope I can graduate without failing any course
 A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/CSwe2CHsobMAAAAi/stress.gif)
