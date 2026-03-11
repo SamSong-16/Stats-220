@@ -15,6 +15,7 @@
   * Review the lecture
   * Preview my course
   * Gaming
+  [My buddy](https://pokemondb.net/pokedex/mudkip)
 - I always think too much
 - I really hope I can graduate without failing any course
   
