@@ -50,7 +50,7 @@ ggplot(latest_data, aes(y = app_type,fill = action)) +
     caption = "Data source: Personal mobile notification observation logs")
 ```
 
-***Personal Phone Notification Analysis Report***
+Personal Phone Notification Analysis Report
 
 This report aims to analyze the frequency of notifications, how I handle them, and whether my handling is related to the different applications the notifications originate from. As shown in the chart 'Analysis of notification processing behavior of different applications', I found that notifications from Social Media were the most likely to be selected as 'Click to view now,' which confirms my tendency to react instantly to social media pushes.
 
