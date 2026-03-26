@@ -47,6 +47,20 @@ y = "Application categories",
 fill = "Handling method",
 caption = "Data source: Personal mobile notification observation logs")
 ```
+```{r}
+library(magick)
+
+img_top <- image_read("https://media1.tenor.com/m/pwUWFH15oTMAAAAC/wait.gif") %>%
+  image_scale("280x300") %>%
+  image_annotate("Me when 10 \nnew emails pops up:", size = 28, color = "#FFFFFF", gravity = "South")
+
+img_bottom <- image_read("https://media1.tenor.com/m/VrxAQ39ypQ8AAAAC/drake-meme-drake.gif") %>%
+  image_scale("280x300") %>%
+  image_annotate("Me when a \nSocial Media \nnotification pops up:", size = 28, color = "#FFFFFF", gravity = "South")
+
+final_meme <- image_append(c(img_top, img_bottom), stack = TRUE)
+print(final_meme)
+```
 
 ### Personal Phone Notification Analysis Report
 
