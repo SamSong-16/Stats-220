@@ -59,7 +59,7 @@ img_bottom <- image_read("https://media1.tenor.com/m/VrxAQ39ypQ8AAAAC/drake-meme
   image_annotate("Me when a \nSocial Media \nnotification pops up:", size = 28, color = "#FFFFFF", gravity = "South")
 
 final_meme <- image_append(c(img_top, img_bottom), stack = TRUE)
-print(final_meme)
+plot(final_meme)
 ```
 
 ### Personal Phone Notification Analysis Report
