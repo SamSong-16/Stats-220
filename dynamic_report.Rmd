@@ -14,7 +14,6 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
 
 ## My mobile notification analysis
 
-## My mobile notification analysis
 
 ```{r}
 library(tidyverse)
