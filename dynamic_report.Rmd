@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
 ```{r}
 suppressPackageStartupMessages(library(tidyverse))
 
-logged_data <- read_csv("[https://docs.google.com/spreadsheets/d/e/2PACX-1vSwjWtfBPrqneiSH5wZiV38Eby1PNUvq6RmK1wMqlQ0Qq1Z5RVD7n_yeyYsyEmDKzJM4KCkAoCEP5-0/pub?output=csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vSwjWtfBPrqneiSH5wZiV38Eby1PNUvq6RmK1wMqlQ0Qq1Z5RVD7n_yeyYsyEmDKzJM4KCkAoCEP5-0/pub?output=csv)")
+logged_data <- read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSwjWtfBPrqneiSH5wZiV38Eby1PNUvq6RmK1wMqlQ0Qq1Z5RVD7n_yeyYsyEmDKzJM4KCkAoCEP5-0/pub?output=csv")
 
 latest_data <- logged_data %>%
   rename(
@@ -50,7 +50,7 @@ ggplot(latest_data, aes(y = app_type, fill = action)) +
     fill = "Handling method",
     caption = "Data source: Personal mobile notification observation logs"
   )
-
+```
 
 ***Personal Phone Notification Analysis Report***
 
