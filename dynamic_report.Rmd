@@ -5,6 +5,7 @@ output: html_fragment
 
 ```{r setup, include=FALSE}
 library(tidyverse)
+library(magick)
 knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
 
 ```
@@ -48,7 +49,6 @@ fill = "Handling method",
 caption = "Data source: Personal mobile notification observation logs")
 ```
 ```{r}
-library(magick)
 
 img_top <- image_read("https://media1.tenor.com/m/pwUWFH15oTMAAAAC/wait.gif") %>%
   image_scale("280x300") %>%
