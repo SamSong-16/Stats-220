@@ -29,10 +29,12 @@ A meme that captures how I currently feel about my university studies is
 
 
 How do I feel when I try to figure out whats happening in my lecture
+
 ![](https://media1.tenor.com/m/hXika4IpDA8AAAAC/spongebob-confused.gif)
 
 
 Me when I thinking too much
+
 ![](https://media1.tenor.com/m/wPsCtaXlhWAAAAAC/stillesque.gif)
 
 Also me, when any good happens
