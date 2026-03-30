@@ -1,9 +1,6 @@
 # stats220
-
 ## This is my repo for STATS 220.
-
 **A little about me:**
-
 - I am undertaking a degree in *Statistic* and *Psychology*.
 - I am taking STATS 220 because I really have to take it for my degrees and I wish I will love it in the future learning.
 - I am interested in learning about how to use Markdown and all the languages will be use in this course.
