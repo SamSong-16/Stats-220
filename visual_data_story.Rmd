@@ -1,0 +1,58 @@
+---
+title: Quantifying My Daily Phone notifications
+output: html_document
+---
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, error=FALSE)
+```
+
+```{js}
+$(function() {
+  $(".level2").css('visibility', 'hidden');
+  $(".level2").first().css('visibility', 'visible');
+  $(".container-fluid").height($(".container-fluid").height() + 300);
+  $(window).on('scroll', function() {
+    $('h2').each(function() {
+      var h2Top = $(this).offset().top - $(window).scrollTop();
+      var windowHeight = $(window).height();
+      if (h2Top >= 0 && h2Top <= windowHeight / 2) {
+        $(this).parent('div').css('visibility', 'visible');
+      } else if (h2Top > windowHeight / 2) {
+        $(this).parent('div').css('visibility', 'hidden');
+      }
+    });
+  });
+})
+```
+
+```{css}
+.figcaption {display: none}
+body {background-color: #e5f5f9; color: #5c5c5c; }
+
+h1,h2 {color: #2ca25f; }
+```
+To understand how my digital environment impacts my daily life, I conducted an observational study building on Project 2. Using a custom Google Form, I recorded data every time my phone vibrated. I recorded the app category, word count, specific textual factors such as mentions, emojis, or question marks, what I was doing at the time, and my immediate reaction—whether I clicked immediately or ignored it. This visualization quantifies the nature of these daily distractions.
+
+## Chapter 1: When Do I Typically Receive Notifications?
+To understand the rhythm of my digital environment, we can observe the specific distribution of notifications received throughout the day. Converting the recorded timestamp strings into consecutive numerical hours accurately shows when my phone vibrates most frequently.
+
+The visualization clearly reflects my daily routine. The large blank periods in the early morning represent my sleep time, when external demands naturally cease. Conversely, the afternoon peaks indicate a dense influx of academic updates on Canvas, received emails, and social media messages, all of which urgently require my attention.
+![](plot1.png)
+
+## Chapter 2: Different Text, Different Processing
+Do certain surface textual features prompt me to react more quickly? Without reading the full message, I observed how specific visual cues—especially question marks, exclamation marks, and direct @ tags—influenced my immediate processing decisions.
+
+Statistical Insight: Specific punctuation marks played a powerful role. Ordinary text notifications, such as automated emails or system alerts, were likely ignored or immediately swiped away. However, when notifications contained ? or !, my processing reflex strongly favored immediate clicking. This likely amplified the sense of urgency.
+![](plot2.png)
+
+## Chapter 3: What I Was Doing When I Received Notifications
+Finally, how does my real world intertwine with these notifications? By comparing the observed totals with what I was doing when I received notifications, we can identify where my attention is most vulnerable.
+
+For readability, we plotted the variable levels, and a striking pattern emerges. I received the most notifications during breaks, workouts, and studying. This is likely because I spend a significant portion of my daily routine on these three things. This made me consider whether I should turn off my phone notifications during workouts and studying to help me focus better on what I'm doing.
+![](plot3.png)
+
+## Conclusion: Setting Data-Driven Boundaries
+Through rigorous data processing and visual coding, this study successfully transformed raw observation logs into an objective audit of my digital space. By understanding hourly arrival rhythms, visual textual features that evoke reflections, and the most focused concrete real-world activities, such as resting or exercising at the gym, I can leverage these statistical insights to establish healthier, more proactive boundaries to resist external pressures.
